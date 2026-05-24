@@ -1,0 +1,22 @@
+{
+  "name": "food-website-frontend",
+  "version": "1.0.0",
+  "description": "Responsive multi-page restaurant website built with HTML, CSS, and vanilla JavaScript.",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "build": "node -e \"console.log('Static frontend: no build step required.')\""
+  },
+  "keywords": [
+    "html",
+    "css",
+    "javascript",
+    "static-site",
+    "restaurant",
+    "frontend"
+  ],
+  "author": "Prashant Chilkawar",
+  "license": "UNLICENSED"
+}
